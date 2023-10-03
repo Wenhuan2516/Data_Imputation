@@ -1,5 +1,6 @@
 # Data_Imputation
 It introduces how to use K-Nearest-Neighbors method to impute climate data and Bayesian Spatio-Temporal Models by using R-INLA to impute mortality data.
 
-# In the suicide_data jupyter notebook, the maps can't displayed. You can find the map here
+###  In the suicide_data jupyter notebook, the maps can't displayed. You can find the map here
+![Alt text](relative%20path/to/img.jpg?raw=true "Title")
 
